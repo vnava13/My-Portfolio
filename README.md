@@ -1,6 +1,6 @@
 *The SQL project focused on creating a SQL database, as well as writing complex SQL queries to derive key insights about India's air quality.
 
-*The Big Data project analyzed risk factors that lead to freight trucking accidents on US highways using the Hadoop ecocystem like Hive, Impala, and HDFS.
+*The Big Data project analyzed risk factors that lead to freight trucking accidents on US highways using the Hadoop ecocystem like Hive, Impala, Spark, and HDFS.
 
 *The NLP project involved generating "sentiment analysis" on 1000 Reddit posts using Python.
 
